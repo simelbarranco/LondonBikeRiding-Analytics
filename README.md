@@ -11,8 +11,8 @@ The dataset used for this project is available on [Kaggle](https://www.kaggle.co
 ### Objectives
 
 1. **Objectives**
-   - Objective #1
-   - Objective #2
+   - Data Gathering, Exploring, and Manipulation.
+   - Tableau Dashboard Creation.
 
 ---
 
