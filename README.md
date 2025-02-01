@@ -18,18 +18,20 @@ The dataset used for this project is available on [Kaggle](https://www.kaggle.co
 
 ### Results
 
-#### Result #1
-![Result](./assets/placeholder.jpeg)
+#### Total Number of Bike Rides
+![Total Number of Bike Rides](./assets/placeholder.jpeg)
 
-#### Result #2
-![Result](./assets/placeholder.jpeg)
+#### Moving Average Period
+![Moving Average Period](./assets/placeholder.jpeg)
 
-#### Result #3
-![Result](./assets/placeholder.jpeg)
+#### Heatmap - Temperature vs Wind Speed
+![Heatmap - Temperature vs Wind Speed](./assets/placeholder.jpeg)
 ---
 
-### Outcomes
-- Objective #1.
-- Objective #2.
-- Objective #3.
+### Outcomes [Tableau & Python]
+- Introduction to Tableau and its visualisations: 
+   - Usage of Set Actions
+   - Usage of User-defined parameters
+   - Usage of Timeline filter
+- Used Python & Jupyter to explore, clean, and format a Kaggle dataset.
 ---
