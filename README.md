@@ -1,7 +1,9 @@
 # E2E D&A Series: London Bike Riding - Analytics 🚲
 
 ## Project Description
-E2E D&amp;A Series: Analytics Project #1. Analytics project using Tableau, Python, and historical data for bike sharing in London.
+E2E D&amp;A Series: Project #1. Analytics project using Tableau, Python, and historical data for bike sharing in London.
+
+![Dashboard](./assets/dashboard.png)
 
 ### Dataset Link
 The dataset used for this project is available on [Kaggle](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset).
@@ -19,13 +21,18 @@ The dataset used for this project is available on [Kaggle](https://www.kaggle.co
 ### Results
 
 #### Total Number of Bike Rides
-![Total Number of Bike Rides](./assets/placeholder.jpeg)
+![Total Number of Bike Rides](./assets/total_rides.png)
 
 #### Moving Average Period
-![Moving Average Period](./assets/placeholder.jpeg)
+![Moving Average Period](./assets/moving_avg.png)
 
 #### Heatmap - Temperature vs Wind Speed
-![Heatmap - Temperature vs Wind Speed](./assets/placeholder.jpeg)
+![Heatmap - Temperature vs Wind Speed](./assets/heatmap.png)
+
+#### Tooltips - Moving Average Rides
+| Rides by Weather  | Rides by Hour |
+| ------------- | ------------- |
+| ![Weather Tooltip](./assets/weather.png)  | ![Hour Tooltip](./assets/hour.png)  |
 ---
 
 ### Outcomes [Tableau & Python]
